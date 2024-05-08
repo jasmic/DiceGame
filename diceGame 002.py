@@ -1,4 +1,5 @@
 #Dice game - Stage 2
+#adding the score for a double
 
 #throw two six sided dice
 #print the result
