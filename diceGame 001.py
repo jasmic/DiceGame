@@ -1,4 +1,5 @@
 #Dice game - Stage 1
+#Setting up the throw of the dice
 
 #throw two six sided dice
 #print the result
