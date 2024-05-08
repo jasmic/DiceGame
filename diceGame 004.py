@@ -1,4 +1,5 @@
 #Dice game - Stage 4
+#code for a score less than 0
 
 #throw two six sided dice
 #print the result
