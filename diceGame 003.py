@@ -1,6 +1,7 @@
 #Dice game - Stage 3
+#code for when it isn't a double
 
-#throw two six sided dice
+#throw two six-sided dice
 #print the result
 
 #Declare variables and import modules
