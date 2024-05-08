@@ -30,6 +30,7 @@ Displays the score and player name of the top 5 winning scores from the external
 #Code development log
 
 Keep a record of the stages of development you go through to create the completed project.
+Make sure you keep a record of testing including what happens when things go wrong.
 
 01/05/2024
 Phase 1 - develop simple game mechanics
