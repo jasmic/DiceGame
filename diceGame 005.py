@@ -1,6 +1,7 @@
 #Dice game - Stage 5
+#adding player 2 by duplicating the code for player 1 and adjusting variables
 
-#throw two six sided dice
+#throw two six-sided dice
 #print the result
 
 #Declare variables and import modules
